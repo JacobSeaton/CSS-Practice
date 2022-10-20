@@ -1,0 +1,21 @@
+input, label {
+    display: block;
+}
+
+main {
+    margin-left: 5em;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: blue;
+    font-size: 5em;
+    text-align: center;
+}
